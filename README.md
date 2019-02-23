@@ -7,8 +7,8 @@
 :hourglass:
 
 
-![GitHub Logo](/images/logo.png)
-Format: https://octodex.github.com/grinchtocat
+![GitHub Logo](https://octodex.github.com/grinchtocat.png)
+
 
 
 .
